@@ -57,7 +57,7 @@
 &none         &none         &none         &none         &none         &none         &none                  &none         &none         &none         &none         &none         &none         &none
 &none         &none         &none         &none         &none         &none         &none                  &none         &none         &none         &none         &none         &none         &none
 &trans        &bootloader   &reset        &none         &none         &none         &none                  &none         &none         &none         &none         &none         &none         &trans
-&trans        &none         &none         &trans        &trans        &none         &trans                 &trans        &none         &trans        &HOME         &PG_DN         &PG_UP         &END
+&trans        &none         &none         &trans        &trans        &none         &trans                 &trans        &none         &trans        &kp HOME         &kp PG_DN         &kp PG_UP         &kp END
                         >;
                 };
                 raise_layer {
